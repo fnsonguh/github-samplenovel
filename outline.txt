@@ -5,6 +5,8 @@ powerful source code editor which runs on your
 desktop and is available for Windows, macOS and 
 Linux. It comes with built-in support for 
 JavaScript, TypeScript and Node.js and has a
+
+chapter 2
  rich ecosystem of extensions for other 
  languages and Runtimes 
  (such as C++, C#, Java, Python, PHP, Go, .NET). 
