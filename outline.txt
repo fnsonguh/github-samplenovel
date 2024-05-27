@@ -1,4 +1,7 @@
-Chapter 1
+Chapter 1 
+===============
+outline
+============
 - We meet Nick, Tom, Daisy and jordan.
 Visual Studio Code is a lightweight but 
 powerful source code editor which runs on your 
